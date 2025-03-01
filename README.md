@@ -7,3 +7,5 @@ My Windows 10 configurations
 - ***[tacky-borders](https://github.com/BilayJr/dotfiles/tree/main/tacky-borders)*** - my Tacky-Borders config
 - ***[roseppuccin.css](https://github.com/BilayJr/dotfiles/blob/main/roseppuccin.css)*** - my color palette
 - ***[roseppuccin_pink.json](https://github.com/BilayJr/dotfiles/blob/main/roseppuccin_pink.json)*** - File Pilot theme
+
+![IMG_3236](https://github.com/user-attachments/assets/4fb5df65-aae2-4b83-8350-70c4c82f47b3)
